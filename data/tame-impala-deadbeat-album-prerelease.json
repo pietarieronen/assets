@@ -1,0 +1,419 @@
+{
+  "data": {
+    "lookup": [
+      {
+        "__typename": "PreReleaseResponseWrapper",
+        "data": {
+          "__typename": "PreRelease",
+          "preReleaseContent": {
+            "artists": {
+              "items": [
+                {
+                  "data": {
+                    "__typename": "Artist",
+                    "id": "5INjqkS1o8h1imAzPqGZBb",
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb",
+                    "visuals": {
+                      "avatarImage": {
+                        "sources": [
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+                            "width": 640
+                          },
+                          {
+                            "height": 160,
+                            "url": "https://i.scdn.co/image/ab6761610000f178e412a782245eb20d9626c601",
+                            "width": 160
+                          },
+                          {
+                            "height": 320,
+                            "url": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+                            "width": 320
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            "copyright": "℗ (P) 2025 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from Tame Impala",
+            "coverArt": {
+              "extractedColors": {
+                "colorRaw": {
+                  "hex": "#535353",
+                  "isFallback": true
+                }
+              },
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02afdde58ba36624d8f71498e9"
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851afdde58ba36624d8f71498e9"
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273afdde58ba36624d8f71498e9"
+                }
+              ]
+            },
+            "name": "Deadbeat",
+            "tracks": {
+              "items": [
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "EXPLICIT"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 298783
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "My Old Ways",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:4whkhyXTrTgHKZzkUvdwoq"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 215079
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "No Reply",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:5x0zW1JcdON7Zli2umGEJg"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "EXPLICIT"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 205308
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Dracula",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:1NXbNEAcPvY5G1xvfN57aA"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "EXPLICIT"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 223069
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Loser",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:7bxaFZ1O3cHkgLKMsdC3xR"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 268968
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Oblivion",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:1grOl5UNPBMDtrW96KbNdH"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 254120
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Not My World",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:12wDKbddX9bUYHd1Rl8gmu"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 284608
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Piece Of Heaven",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:0gwCQvjDPCTFEq9790FGdC"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "EXPLICIT"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 263640
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Obsolete",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:0On1SxfkvTOfzvjVgFLK7V"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 462304
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Ethereal Connection",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:7J4EeyDpz2z8LuDFTuxskK"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 214956
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "See You On Monday (You're Lost)",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:4dReLsqSqYhrC83Qgg7Lyx"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 241783
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "Afterthought",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:4LqkSEGv7SpGzruiSTkfL5"
+                },
+                {
+                  "artists": {
+                    "items": [
+                      {
+                        "data": {
+                          "__typename": "Artist",
+                          "id": "5INjqkS1o8h1imAzPqGZBb",
+                          "profile": {
+                            "name": "Tame Impala"
+                          },
+                          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "duration": {
+                    "totalMilliseconds": 432566
+                  },
+                  "hasOriginalAudio": true,
+                  "name": "End Of Summer",
+                  "playability": {
+                    "playable": false
+                  },
+                  "uri": "spotify:track:3McBKxKZLXbE4czUezk5QG"
+                }
+              ],
+              "totalCount": 12
+            },
+            "type": "ALBUM",
+            "uri": "spotify:album:5WulAOx9ilWy1h8UGZ1gkI"
+          },
+          "releaseDate": {
+            "isoString": "2025-10-16T21:00:00Z",
+            "precision": "MINUTE"
+          },
+          "timezone": "Europe/Helsinki",
+          "uri": "spotify:prerelease:16bIQEvj7z9kCvnWAGC28q"
+        }
+      }
+    ]
+  }
+}
