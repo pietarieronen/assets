@@ -1,0 +1,1039 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "copyright": {
+        "items": [
+          {
+            "text": "(P) 2025 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from Tame Impala",
+            "type": "P"
+          }
+        ],
+        "totalCount": 1
+      },
+      "courtesyLine": "",
+      "date": {
+        "isoString": "2025-10-17T00:00:00Z",
+        "precision": "DAY"
+      },
+      "isPreRelease": false,
+      "label": "Columbia",
+      "name": "Deadbeat",
+      "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+      },
+      "preReleaseEndDateTime": {
+        "isoString": "2025-10-16T21:00:00Z",
+        "precision": "MINUTE"
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "xQ5L3DEuTBqz5IF3sEJGsA",
+        "shareUrl": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI?si=xQ5L3DEuTBqz5IF3sEJGsA"
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "EXPLICIT"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 298783
+              },
+              "name": "My Old Ways",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:4whkhyXTrTgHKZzkUvdwoq"
+            },
+            "uid": "7fae7359891ec79d7607"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 215079
+              },
+              "name": "No Reply",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:5x0zW1JcdON7Zli2umGEJg"
+            },
+            "uid": "58e2e8c46bcffe175e39"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 1
+                }
+              },
+              "contentRating": {
+                "label": "EXPLICIT"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 205308
+              },
+              "name": "Dracula",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "30042054",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:1NXbNEAcPvY5G1xvfN57aA"
+            },
+            "uid": "224b2120252ca34bd08f"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 1
+                }
+              },
+              "contentRating": {
+                "label": "EXPLICIT"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 223069
+              },
+              "name": "Loser",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "26432756",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:7bxaFZ1O3cHkgLKMsdC3xR"
+            },
+            "uid": "27eadd1436ec08c7a5b4"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 268968
+              },
+              "name": "Oblivion",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:1grOl5UNPBMDtrW96KbNdH"
+            },
+            "uid": "a52a3519efc8a5a4d24e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 254120
+              },
+              "name": "Not My World",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:12wDKbddX9bUYHd1Rl8gmu"
+            },
+            "uid": "d8769ae41ec174b5b4f3"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 284608
+              },
+              "name": "Piece Of Heaven",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:0gwCQvjDPCTFEq9790FGdC"
+            },
+            "uid": "b7d78c78776d9e6ece7f"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "EXPLICIT"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 263640
+              },
+              "name": "Obsolete",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:0On1SxfkvTOfzvjVgFLK7V"
+            },
+            "uid": "01b9d5220ad9d749a90e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 462304
+              },
+              "name": "Ethereal Connection",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:7J4EeyDpz2z8LuDFTuxskK"
+            },
+            "uid": "17e4d11c87a28d90a122"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 214956
+              },
+              "name": "See You On Monday (You're Lost)",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 10,
+              "uri": "spotify:track:4dReLsqSqYhrC83Qgg7Lyx"
+            },
+            "uid": "230c58cba6022b44cba3"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 241783
+              },
+              "name": "Afterthought",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 11,
+              "uri": "spotify:track:4LqkSEGv7SpGzruiSTkfL5"
+            },
+            "uid": "fcda755265f0d41e7f9b"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tame Impala"
+                    },
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 1
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 432566
+              },
+              "name": "End Of Summer",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "29286347",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 12,
+              "uri": "spotify:track:3McBKxKZLXbE4czUezk5QG"
+            },
+            "uid": "b2a537a3cdc973b2c348"
+          }
+        ],
+        "totalCount": 12
+      },
+      "type": "ALBUM",
+      "uri": "spotify:album:5WulAOx9ilWy1h8UGZ1gkI",
+      "visualIdentity": {
+        "squareCoverImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 187,
+              "green": 187,
+              "red": 187
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 53,
+                "green": 53,
+                "red": 53
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 86,
+                "green": 86,
+                "red": 86
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "watchFeedEntrypoint": null,
+      "artists": {
+        "items": [
+          {
+            "id": "5INjqkS1o8h1imAzPqGZBb",
+            "profile": {
+              "name": "Tame Impala"
+            },
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb?si=f1Q1w3I9Q16MkbZm5KvR1A"
+            },
+            "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb",
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+                    "width": 640
+                  },
+                  {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178e412a782245eb20d9626c601",
+                    "width": 160
+                  },
+                  {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+                    "width": 320
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "totalCount": 1
+      },
+      "coverArt": {
+        "extractedColors": {
+          "colorDark": {
+            "hex": "#535353"
+          },
+          "colorLight": {
+            "hex": "#7F7F7F"
+          },
+          "colorRaw": {
+            "hex": "#535353"
+          }
+        },
+        "sources": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02afdde58ba36624d8f71498e9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851afdde58ba36624d8f71498e9",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273afdde58ba36624d8f71498e9",
+            "width": 640
+          }
+        ]
+      },
+      "discs": {
+        "items": [
+          {
+            "number": 1,
+            "tracks": {
+              "totalCount": 12
+            }
+          }
+        ],
+        "totalCount": 1
+      },
+      "releases": {
+        "items": [],
+        "totalCount": 0
+      },
+      "moreAlbumsByArtist": {
+        "items": [
+          {
+            "discography": {
+              "popularReleasesAlbums": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "79dL7FLiJFOO0EoehUHQBv",
+                    "name": "Currents",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "3grAdk0oRICggbCrdpcuhA",
+                      "shareUrl": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv?si=3grAdk0oRICggbCrdpcuhA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "31qVWUdRrlb8thMvts0yYL",
+                    "name": "The Slow Rush",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "6K18m3pGSl6pDEeEjX0tNw",
+                      "shareUrl": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL?si=6K18m3pGSl6pDEeEjX0tNw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0278009881b6815a7efe6d7b35",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485178009881b6815a7efe6d7b35",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27378009881b6815a7efe6d7b35",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "2kCjkEVRnLdEV5UOaQSAG4",
+                    "name": "Dracula",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "w5HJEyU4QJueQtiW3AvcxQ",
+                      "shareUrl": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4?si=w5HJEyU4QJueQtiW3AvcxQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2kCjkEVRnLdEV5UOaQSAG4"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02370c12f82872c9cfaee80193",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851370c12f82872c9cfaee80193",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2012
+                    },
+                    "id": "3C2MFZ2iHotUQOSBzdSvM7",
+                    "name": "Lonerism",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "HhQtJHzRS0WrUA6ZtWQhaw",
+                      "shareUrl": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=HhQtJHzRS0WrUA6ZtWQhaw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3C2MFZ2iHotUQOSBzdSvM7"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025b46c80f286f7a4b8eca0b16",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515b46c80f286f7a4b8eca0b16",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "3xIGAElZCxV44QtMvXrPMa",
+                    "name": "Loser",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "sVXCgx-WSgqyXAlne4bhhQ",
+                      "shareUrl": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa?si=sVXCgx-WSgqyXAlne4bhhQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3xIGAElZCxV44QtMvXrPMa"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02820a2bc04f5da37d6250996a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851820a2bc04f5da37d6250996a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273820a2bc04f5da37d6250996a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "3kgOKo0TlU22INB7U0Rqdj",
+                    "name": "End Of Summer",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Q_5S7Zg6Q9WXpg7vrA_Lcg",
+                      "shareUrl": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj?si=Q_5S7Zg6Q9WXpg7vrA_Lcg"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3kgOKo0TlU22INB7U0Rqdj"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02176e82d09ac75d62810f0056",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851176e82d09ac75d62810f0056",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273176e82d09ac75d62810f0056",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2010
+                    },
+                    "id": "1DNSmmRLfv97Yjq7MTFWng",
+                    "name": "InnerSpeaker",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "E1RYwYqFRZeCdyJQ8lCI6Q",
+                      "shareUrl": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng?si=E1RYwYqFRZeCdyJQ8lCI6Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1DNSmmRLfv97Yjq7MTFWng"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0222b9cdd0c4ce8cee5857f6a4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485122b9cdd0c4ce8cee5857f6a4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27322b9cdd0c4ce8cee5857f6a4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "0PUdc9WBtlyjG9Ba9DPmKa",
+                    "name": "The Slow Rush B-Sides & Remixes",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "8eOyC7hUQKOIvhTn4AVKYQ",
+                      "shareUrl": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa?si=8eOyC7hUQKOIvhTn4AVKYQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0PUdc9WBtlyjG9Ba9DPmKa"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bf2fe3810d8a6696d3f1b5db",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bf2fe3810d8a6696d3f1b5db",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bf2fe3810d8a6696d3f1b5db",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "04uXkrNhFJ1iWEo88MGPva",
+                    "name": "Currents B-Sides & Remixes",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "S0J4N5hORBy4kVEylbmKLQ",
+                      "shareUrl": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva?si=S0J4N5hORBy4kVEylbmKLQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:04uXkrNhFJ1iWEo88MGPva"
+                  },
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02299b1c25ca43764ac72c205f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851299b1c25ca43764ac72c205f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273299b1c25ca43764ac72c205f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6UGnOHEJZT6AkVXrtgcP0u",
+                    "name": "Neverender",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Id12ETzwSIOE2EJnCvEqeA",
+                      "shareUrl": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u?si=Id12ETzwSIOE2EJnCvEqeA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6UGnOHEJZT6AkVXrtgcP0u"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
